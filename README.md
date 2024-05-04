@@ -10,7 +10,7 @@ A passionate **Software Developer, and  👩‍💻 student from Kisumu-Kenya. C
 Web3 enthusiast.
 
 ### 📫 How to reach me 
-ouma.godwin10gmail.com
+ouma.godwin10@gmail.com
 
 ### socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/ouma-ouma-a01716267)
