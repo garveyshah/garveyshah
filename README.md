@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/garveyshah/garveyshah/blob/main/banner/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e67.gif)
+![Profile Banner]([URL_TO_YOUR_IMAGE](https://github.com/garveyshah/garveyshah/blob/main/banner/blockchain-development-services-blockchain-development-company-in-india.gif))
 
   # Hi 👋, I'm **Ouma Ouma**
 
