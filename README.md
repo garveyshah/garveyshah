@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/garveyshah/garveyshah/blob/main/banner/acastro_210902_4741_0001.gif)
+![Profile Banner](https://github.com/garveyshah/garveyshah/blob/main/banner/blockchain-development-services-blockchain-development-company-in-india.gif)
 
 
   # Hi 👋, I'm **Ouma Ouma**
