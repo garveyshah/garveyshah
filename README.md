@@ -1,4 +1,4 @@
-![Profile Banner]([URL_TO_YOUR_IMAGE](https://github.com/garveyshah/garveyshah/blob/main/banner/blockchain-development-services-blockchain-development-company-in-india.gif))
+![Profile Banner](URL_TO_YOUR_IMAGE](https://github.com/garveyshah/garveyshah/blob/main/banner/blockchain-development-services-blockchain-development-company-in-india.gif)
 
   # Hi 👋, I'm **Ouma Ouma**
 
