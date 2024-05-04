@@ -1,20 +1,18 @@
 ![Profile Banner](https://github.com/garveyshah/garveyshah/blob/main/banner/blockchain-development-services-blockchain-development-company-in-india.gif)
 
   # Hi 👋, I'm **Ouma Ouma**
-A passionate **Software Developer, and  👩‍💻 student from Kisumu-Kenya. I'm currently training @Zone01Kisumu and working towards Blockchain development.
+A passionate **Software Developer, and  👩‍💻 student from Kisumu-Kenya. Currently training @Zone01Kisumu and working towards Blockchain development.
 
 ### 🌱 I'm currently learning
 - Golang      - rust      - Foundational Mathematics
 
-### 💬 Ask me about
-- Go.      - rust.
-
 ### ⚡ Fun fact
-Am a Web3 enthusiast.
+a mega Web3 enthusiast.
 
-###📫 How to reach me ouma.godwin10.com
+### 📫 How to reach me 
+ouma.godwin10gmail.com
 
-### 📫 Find me on :
+### socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/ouma-ouma-a01716267)
 [![Codewars](https://www.codewars.com/users/your_username/badges/micro)](https://www.codewars.com/users/garveyshah)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=flat-logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/ouma_godwin1)
