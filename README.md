@@ -1,4 +1,4 @@
-(https://github.com/garveyshah/garveyshah/blob/main/banner/71b8597599e9f5d7fa269dfdfff73367.jpg)
+![Profile Banner](https://github.com/garveyshah/garveyshah/blob/main/banner/71b8597599e9f5d7fa269dfdfff73367.jpg)
 
 
 # Hi 👋, I'm **Ouma Ouma**
