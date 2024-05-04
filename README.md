@@ -1,8 +1,4 @@
-![image](https://github.com/garveyshah/garveyshah/assets/162585009/ff946313-0eb2-481c-b060-3ccc14a89040)![image](https://github.com/garveyshah/garveyshah/assets/162585009/34d8a62a-4416-4a0c-b3cb-13169f084a2b)<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/garveyshah/garveyshah/blob/main/banner/1649677264263.gif">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/garveyshah/garveyshah/blob/main/banner/acastro_210902_4741_0001.gif">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/garveyshah/garveyshah/blob/main/banner/acastro_210902_4741_0001.gif">
-</picture>
+![Profile Banner](https://github.com/garveyshah/garveyshah/blob/main/banner/acastro_210902_4741_0001.gif)
 
 
   # Hi 👋, I'm **Ouma Ouma**
