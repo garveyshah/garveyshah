@@ -20,7 +20,7 @@ Am a Web3 enthusiast.
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=flat-logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/ouma_godwin1)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=flat-logo=github&logoColor=white&color=181717)](https://github.com/garveyshah)
 
-# Things I code with
+# stats
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=garveyshah&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=garveyshah&show_icons=true&theme=radical)
