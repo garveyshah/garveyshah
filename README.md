@@ -1,12 +1,10 @@
 ![Profile Banner](https://github.com/garveyshah/garveyshah/blob/main/banner/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e67.gif)
 
-
-
-# Hi 👋, I'm **Ouma Ouma**
+  # Hi 👋, I'm **Ouma Ouma**
 
 A passionate **Software Developer, and  👩‍💻 student from Kisumu-Kenya. I'm currently training @Zone01Kisumu and working towards Blockchain development.
 
-## 🌱 I'm currently learning:
+## 🌱 I'm currently learning
 - Golang
 - rust
 - Foundational Mathematics.
@@ -17,6 +15,8 @@ A passionate **Software Developer, and  👩‍💻 student from Kisumu-Kenya. I
 
 ## ⚡ Fun fact
 Am a Web3 enthusiast.
+
+📫 How to reach me ouma.godwin10.com
 
 ## 📫 Find me on :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/ouma-ouma-a01716267)
