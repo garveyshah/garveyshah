@@ -7,7 +7,7 @@ A passionate **Software Developer, and  👩‍💻 student from Kisumu-Kenya. C
 - Golang      - rust      - Foundational Mathematics
 
 ### ⚡ Fun fact
-a mega Web3 enthusiast.
+Web3 enthusiast.
 
 ### 📫 How to reach me 
 ouma.godwin10gmail.com
