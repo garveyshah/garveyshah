@@ -13,6 +13,5 @@ A passionate Software Developer, and  👩‍💻 student from Kisumu-Kenya. Cur
 # My Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=garveyshah&show_icons=true&theme=radical)
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=garveyshah&theme=radical&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
   
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=garveyshah&layout=compact)
